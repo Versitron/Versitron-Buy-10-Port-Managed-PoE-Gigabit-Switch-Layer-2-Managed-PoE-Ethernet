@@ -1,4 +1,4 @@
-# Buy 10‑Port Managed PoE Gigabit Switch | Layer 2 Managed PoE+ Ethernet
+# Versitron | Buy 10‑Port Managed PoE Gigabit Switch | Layer 2 Managed PoE+ Ethernet
 
 Versitron 10‑port managed PoE gigabit switches are professional networking devices engineered for reliable power over Ethernet (PoE/PoE+) and high‑speed data for security systems, IP cameras, and small business networks.
 
